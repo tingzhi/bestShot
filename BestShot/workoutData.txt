@@ -1,0 +1,582 @@
+Oct 11 2020,Back Squat,10,45
+Oct 11 2020,Back Squat,10,135
+Oct 11 2020,Back Squat,3,185
+Oct 11 2020,Back Squat,6,245
+Oct 11 2020,Back Squat,6,245
+Oct 11 2020,Back Squat,6,245
+Oct 11 2020,Back Squat,6,245
+Oct 05 2020,Barbell Bench Press,4,45
+Oct 05 2020,Barbell Bench Press,4,125
+Oct 05 2020,Barbell Bench Press,2,185
+Oct 05 2020,Barbell Bench Press,2,205
+Oct 05 2020,Barbell Bench Press,2,225
+Oct 05 2020,Barbell Bench Press,2,225
+Oct 05 2020,Barbell Bench Press,2,225
+Oct 05 2020,Barbell Bench Press,2,225
+Oct 05 2020,Barbell Bench Press,2,225
+Oct 04 2020,Back Squat,10,45
+Oct 04 2020,Back Squat,8,110
+Oct 04 2020,Back Squat,6,185
+Oct 04 2020,Back Squat,6,205
+Oct 04 2020,Back Squat,6,245
+Sep 28 2020,Back Squat,8,45
+Sep 28 2020,Back Squat,8,135
+Sep 28 2020,Back Squat,4,220
+Sep 28 2020,Back Squat,3,260
+Sep 28 2020,Back Squat,4,260
+Sep 28 2020,Back Squat,4,260
+Sep 28 2020,Back Squat,4,260
+Sep 28 2020,Back Squat,4,260
+Sep 28 2020,Barbell Bench Press,10,45
+Sep 28 2020,Barbell Bench Press,8,135
+Sep 28 2020,Barbell Bench Press,6,185
+Sep 28 2020,Barbell Bench Press,6,185
+Sep 28 2020,Barbell Bench Press,6,185
+Sep 28 2020,Barbell Bench Press,6,185
+Sep 26 2020,Deadlift,6,45
+Sep 26 2020,Deadlift,6,135
+Sep 26 2020,Deadlift,3,225
+Sep 26 2020,Deadlift,3,275
+Sep 26 2020,Deadlift,3,295
+Sep 26 2020,Deadlift,3,315
+Sep 26 2020,Deadlift,3,315
+Sep 26 2020,Deadlift,3,315
+Sep 22 2020,Barbell Bench Press,8,45
+Sep 22 2020,Barbell Bench Press,8,125
+Sep 22 2020,Barbell Bench Press,3,185
+Sep 22 2020,Barbell Bench Press,4,205
+Sep 22 2020,Barbell Bench Press,4,215
+Sep 22 2020,Barbell Bench Press,4,215
+Sep 22 2020,Barbell Bench Press,4,215
+Sep 21 2020,Back Squat,8,45
+Sep 21 2020,Back Squat,8,135
+Sep 21 2020,Back Squat,3,220
+Sep 21 2020,Back Squat,4,245
+Sep 21 2020,Back Squat,4,255
+Sep 21 2020,Back Squat,4,255
+Sep 21 2020,Back Squat,4,255
+Sep 20 2020,Barbell Bench Press,10,45
+Sep 20 2020,Barbell Bench Press,8,135
+Sep 20 2020,Barbell Bench Press,8,185
+Sep 20 2020,Barbell Bench Press,8,185
+Sep 20 2020,Barbell Bench Press,6,185
+Sep 20 2020,Barbell Bench Press,6,185
+Sep 15 2020,Back Squat,4,45
+Sep 15 2020,Back Squat,4,135
+Sep 15 2020,Back Squat,2,220
+Sep 15 2020,Back Squat,2,245
+Sep 15 2020,Back Squat,2,255
+Sep 15 2020,Back Squat,2,265
+Sep 15 2020,Back Squat,2,265
+Sep 15 2020,Back Squat,2,265
+Sep 15 2020,Back Squat,2,265
+Sep 14 2020,Deadlift,10,45
+Sep 14 2020,Deadlift,10,135
+Sep 14 2020,Deadlift,5,205
+Sep 14 2020,Deadlift,3,250
+Sep 14 2020,Deadlift,5,285
+Sep 14 2020,Deadlift,5,285
+Sep 14 2020,Deadlift,5,285
+Sep 13 2020,Barbell Bench Press,6,45
+Sep 13 2020,Barbell Bench Press,6,125
+Sep 13 2020,Barbell Bench Press,3,185
+Sep 13 2020,Barbell Bench Press,3,205
+Sep 13 2020,Barbell Bench Press,3,215
+Sep 13 2020,Barbell Bench Press,3,215
+Sep 13 2020,Barbell Bench Press,3,215
+Sep 13 2020,Barbell Bench Press,3,215
+Sep 11 2020,Back Squat,10,45
+Sep 11 2020,Back Squat,8,110
+Sep 11 2020,Back Squat,6,185
+Sep 11 2020,Back Squat,6,225
+Sep 11 2020,Back Squat,6,225
+Sep 11 2020,Back Squat,6,225
+Sep 11 2020,Back Squat,6,225
+Sep 08 2020,Back Squat,10,45
+Sep 08 2020,Back Squat,10,95
+Sep 08 2020,Back Squat,3,135
+Sep 08 2020,Back Squat,6,185
+Sep 08 2020,Back Squat,6,225
+Sep 08 2020,Back Squat,6,225
+Sep 08 2020,Back Squat,6,225
+Sep 07 2020,Barbell Bench Press,10,45
+Sep 07 2020,Barbell Bench Press,8,105
+Sep 07 2020,Barbell Bench Press,8,175
+Sep 07 2020,Barbell Bench Press,8,175
+Sep 07 2020,Barbell Bench Press,8,175
+Aug 29 2020,Back Squat,10,45
+Aug 29 2020,Back Squat,8,135
+Aug 29 2020,Back Squat,3,205
+Aug 29 2020,Back Squat,5,225
+Aug 29 2020,Back Squat,5,225
+Aug 29 2020,Back Squat,5,225
+Aug 29 2020,Back Squat,5,225
+Aug 27 2020,Barbell Bench Press,8,45
+Aug 27 2020,Barbell Bench Press,8,135
+Aug 27 2020,Barbell Bench Press,4,185
+Aug 27 2020,Barbell Bench Press,4,195
+Aug 27 2020,Barbell Bench Press,4,205
+Aug 27 2020,Barbell Bench Press,4,205
+Aug 27 2020,Barbell Bench Press,4,205
+Aug 23 2020,Deadlift,6,45
+Aug 23 2020,Deadlift,6,135
+Aug 23 2020,Deadlift,3,185
+Aug 23 2020,Deadlift,3,225
+Aug 23 2020,Deadlift,3,245
+Aug 23 2020,Deadlift,3,255
+Aug 23 2020,Deadlift,3,265
+Aug 23 2020,Deadlift,3,295
+Aug 23 2020,Deadlift,3,295
+Aug 22 2020,Back Squat,10,45
+Aug 22 2020,Back Squat,8,95
+Aug 22 2020,Back Squat,10,205
+Aug 22 2020,Back Squat,10,205
+Aug 22 2020,Back Squat,10,205
+Aug 17 2020,Back Squat,10,45
+Aug 17 2020,Back Squat,8,95
+Aug 17 2020,Back Squat,10,205
+Aug 17 2020,Back Squat,10,205
+Aug 17 2020,Back Squat,10,205
+Aug 10 2020,Deadlift,10,135
+Aug 10 2020,Deadlift,5,185
+Aug 10 2020,Deadlift,3,205
+Aug 10 2020,Deadlift,6,275
+Aug 10 2020,Deadlift,6,275
+Aug 08 2020,Barbell Bench Press,10,45
+Aug 08 2020,Barbell Bench Press,8,110
+Aug 08 2020,Barbell Bench Press,10,185
+Aug 08 2020,Barbell Bench Press,6,205
+Aug 08 2020,Barbell Bench Press,5,205
+Aug 01 2020,Barbell Bench Press,10,45
+Aug 01 2020,Barbell Bench Press,8,110
+Aug 01 2020,Barbell Bench Press,6,185
+Aug 01 2020,Barbell Bench Press,6,185
+Aug 01 2020,Barbell Bench Press,6,185
+Aug 01 2020,Barbell Bench Press,6,185
+Aug 01 2020,Barbell Bench Press,6,185
+Jul 28 2020,Barbell Bench Press,6,45
+Jul 28 2020,Barbell Bench Press,6,135
+Jul 28 2020,Barbell Bench Press,3,185
+Jul 28 2020,Barbell Bench Press,3,200
+Jul 28 2020,Barbell Bench Press,3,210
+Jul 28 2020,Barbell Bench Press,3,210
+Jul 28 2020,Barbell Bench Press,3,210
+Jul 28 2020,Barbell Bench Press,3,210
+Jul 28 2020,Barbell Bench Press,3,210
+Jul 22 2020,Barbell Bench Press,10,45
+Jul 22 2020,Barbell Bench Press,8,100
+Jul 22 2020,Barbell Bench Press,10,165
+Jul 22 2020,Barbell Bench Press,10,165
+Jul 22 2020,Barbell Bench Press,10,165
+Jul 11 2020,Deadlift,8,45
+Jul 11 2020,Deadlift,8,135
+Jul 11 2020,Deadlift,4,235
+Jul 11 2020,Deadlift,3,285
+Jul 11 2020,Deadlift,4,315
+Jul 11 2020,Deadlift,4,325
+Jul 11 2020,Deadlift,4,325
+Jun 30 2020,Back Squat,10,45
+Jun 30 2020,Back Squat,10,135
+Jun 30 2020,Back Squat,3,215
+Jun 30 2020,Back Squat,6,240
+Jun 30 2020,Back Squat,6,240
+Jun 30 2020,Back Squat,6,240
+Jun 30 2020,Back Squat,6,240
+Jun 19 2020,Deadlift,1,360
+Jun 15 2020,Deadlift,10,45
+Jun 15 2020,Deadlift,10,135
+Jun 15 2020,Deadlift,5,205
+Jun 15 2020,Deadlift,3,250
+Jun 15 2020,Deadlift,5,295
+Jun 15 2020,Deadlift,5,295
+Jun 15 2020,Deadlift,5,295
+Jun 15 2020,Deadlift,5,295
+Jun 15 2020,Deadlift,5,295
+Jun 12 2020,Barbell Bench Press,8,105
+Jun 12 2020,Barbell Bench Press,8,175
+Jun 12 2020,Barbell Bench Press,8,175
+Jun 12 2020,Barbell Bench Press,8,175
+Jun 12 2020,Barbell Bench Press,8,175
+Jun 10 2020,Deadlift,10,45
+Jun 10 2020,Deadlift,10,135
+Jun 10 2020,Deadlift,5,205
+Jun 10 2020,Deadlift,3,250
+Jun 10 2020,Deadlift,6,285
+Jun 10 2020,Deadlift,6,285
+Jun 10 2020,Deadlift,6,285
+Jun 10 2020,Deadlift,6,285
+Jun 07 2020,Deadlift,4,45
+Jun 07 2020,Deadlift,4,135
+Jun 07 2020,Deadlift,2,250
+Jun 07 2020,Deadlift,2,295
+Jun 07 2020,Deadlift,2,330
+Jun 07 2020,Deadlift,2,330
+Jun 07 2020,Deadlift,2,330
+Jun 07 2020,Deadlift,2,330
+Jun 07 2020,Deadlift,2,330
+Jun 07 2020,Deadlift,2,330
+Jun 06 2020,Barbell Bench Press,10,45
+Jun 06 2020,Barbell Bench Press,8,110
+Jun 06 2020,Barbell Bench Press,10,165
+Jun 06 2020,Barbell Bench Press,10,175
+Jun 06 2020,Barbell Bench Press,10,175
+May 26 2020,Back Squat,10,45
+May 26 2020,Back Squat,10,135
+May 26 2020,Back Squat,3,215
+May 26 2020,Back Squat,5,240
+May 26 2020,Back Squat,5,240
+May 26 2020,Back Squat,5,240
+May 26 2020,Back Squat,5,240
+May 26 2020,Back Squat,5,240
+May 24 2020,Back Squat,8,45
+May 24 2020,Back Squat,8,135
+May 24 2020,Back Squat,4,215
+May 24 2020,Back Squat,3,255
+May 24 2020,Back Squat,4,285
+May 24 2020,Back Squat,4,285
+May 24 2020,Back Squat,2,285
+May 24 2020,Back Squat,3,285
+May 23 2020,Barbell Bench Press,10,45
+May 23 2020,Barbell Bench Press,8,105
+May 23 2020,Barbell Bench Press,8,175
+May 23 2020,Barbell Bench Press,8,175
+May 23 2020,Barbell Bench Press,8,175
+May 23 2020,Barbell Bench Press,8,175
+May 18 2020,Barbell Bench Press,4,45
+May 18 2020,Barbell Bench Press,4,135
+May 18 2020,Barbell Bench Press,2,205
+May 18 2020,Barbell Bench Press,2,225
+May 18 2020,Barbell Bench Press,2,225
+May 18 2020,Barbell Bench Press,2,225
+May 18 2020,Barbell Bench Press,2,225
+May 18 2020,Barbell Bench Press,2,225
+May 18 2020,Barbell Bench Press,2,225
+May 17 2020,Deadlift,3,245
+May 17 2020,Deadlift,6,275
+May 17 2020,Deadlift,6,275
+May 17 2020,Deadlift,6,275
+May 13 2020,Barbell Bench Press,6,45
+May 13 2020,Barbell Bench Press,6,120
+May 13 2020,Barbell Bench Press,3,180
+May 13 2020,Barbell Bench Press,3,200
+May 13 2020,Barbell Bench Press,3,205
+May 13 2020,Barbell Bench Press,3,205
+May 13 2020,Barbell Bench Press,3,205
+May 13 2020,Barbell Bench Press,3,205
+May 13 2020,Deadlift,8,45
+May 13 2020,Deadlift,8,135
+May 13 2020,Deadlift,4,225
+May 13 2020,Deadlift,3,275
+May 13 2020,Deadlift,4,315
+May 13 2020,Deadlift,4,325
+May 13 2020,Deadlift,4,325
+May 13 2020,Deadlift,4,325
+Apr 27 2020,Deadlift,10,45
+Apr 27 2020,Deadlift,8,130
+Apr 27 2020,Deadlift,3,195
+Apr 27 2020,Deadlift,12,215
+Apr 27 2020,Deadlift,12,215
+Apr 27 2020,Deadlift,12,215
+Apr 26 2020,Back Squat,10,45
+Apr 26 2020,Back Squat,10,135
+Apr 26 2020,Back Squat,5,205
+Apr 26 2020,Back Squat,3,245
+Apr 26 2020,Back Squat,5,270
+Apr 26 2020,Back Squat,5,270
+Apr 26 2020,Back Squat,5,270
+Apr 26 2020,Back Squat,4,270
+Apr 25 2020,Barbell Bench Press,6,45
+Apr 25 2020,Barbell Bench Press,6,135
+Apr 25 2020,Barbell Bench Press,3,185
+Apr 25 2020,Barbell Bench Press,3,200
+Apr 25 2020,Barbell Bench Press,3,200
+Apr 25 2020,Barbell Bench Press,3,200
+Apr 25 2020,Barbell Bench Press,3,200
+Apr 25 2020,Barbell Bench Press,3,200
+Apr 18 2020,Back Squat,10,45
+Apr 18 2020,Back Squat,10,135
+Apr 18 2020,Back Squat,3,220
+Apr 18 2020,Back Squat,6,245
+Apr 18 2020,Back Squat,5,265
+Apr 18 2020,Back Squat,5,265
+Apr 18 2020,Back Squat,5,265
+Apr 18 2020,Back Squat,5,265
+Apr 18 2020,Back Squat,3,265
+Apr 13 2020,Barbell Bench Press,10,45
+Apr 13 2020,Barbell Bench Press,8,105
+Apr 13 2020,Barbell Bench Press,8,175
+Apr 13 2020,Barbell Bench Press,8,175
+Apr 13 2020,Barbell Bench Press,8,175
+Apr 13 2020,Barbell Bench Press,8,175
+Apr 12 2020,Back Squat,10,45
+Apr 12 2020,Back Squat,8,130
+Apr 12 2020,Back Squat,3,195
+Apr 12 2020,Back Squat,8,215
+Apr 12 2020,Back Squat,8,215
+Apr 11 2020,Deadlift,10,45
+Apr 11 2020,Deadlift,10,135
+Apr 11 2020,Deadlift,5,205
+Apr 11 2020,Deadlift,3,250
+Apr 11 2020,Deadlift,6,275
+Apr 11 2020,Deadlift,6,275
+Apr 11 2020,Deadlift,6,275
+Apr 11 2020,Deadlift,6,275
+Apr 10 2020,Back Squat,10,45
+Apr 10 2020,Back Squat,10,135
+Apr 10 2020,Back Squat,3,235
+Apr 10 2020,Back Squat,5,260
+Apr 10 2020,Back Squat,5,260
+Apr 10 2020,Back Squat,5,260
+Apr 10 2020,Back Squat,4,260
+Apr 10 2020,Back Squat,4,260
+Apr 04 2020,Deadlift,10,45
+Apr 04 2020,Deadlift,10,135
+Apr 04 2020,Deadlift,3,225
+Apr 04 2020,Deadlift,8,265
+Apr 04 2020,Deadlift,8,265
+Apr 04 2020,Deadlift,8,265
+Apr 04 2020,Deadlift,8,265
+Apr 02 2020,Barbell Bench Press,8,45
+Apr 02 2020,Barbell Bench Press,8,135
+Apr 02 2020,Barbell Bench Press,3,205
+Apr 02 2020,Barbell Bench Press,3,225
+Apr 02 2020,Barbell Bench Press,2,225
+Apr 02 2020,Barbell Bench Press,2,225
+Apr 02 2020,Barbell Bench Press,2,225
+Mar 30 2020,Deadlift,6,45
+Mar 30 2020,Deadlift,6,135
+Mar 30 2020,Deadlift,3,225
+Mar 30 2020,Deadlift,3,275
+Mar 30 2020,Deadlift,3,315
+Mar 30 2020,Deadlift,3,325
+Mar 30 2020,Deadlift,3,325
+Mar 30 2020,Deadlift,3,325
+Mar 30 2020,Deadlift,3,325
+Mar 30 2020,Deadlift,3,325
+Mar 24 2020,Back Squat,10,45
+Mar 24 2020,Back Squat,8,135
+Mar 24 2020,Back Squat,3,205
+Mar 24 2020,Back Squat,8,225
+Mar 24 2020,Back Squat,8,225
+Mar 24 2020,Back Squat,8,225
+Mar 24 2020,Back Squat,8,225
+Mar 22 2020,Barbell Bench Press,10,45
+Mar 22 2020,Barbell Bench Press,8,110
+Mar 22 2020,Barbell Bench Press,6,185
+Mar 22 2020,Barbell Bench Press,6,185
+Mar 22 2020,Barbell Bench Press,6,185
+Mar 22 2020,Barbell Bench Press,6,185
+Mar 15 2020,Deadlift,10,45
+Mar 15 2020,Deadlift,10,135
+Mar 15 2020,Deadlift,3,225
+Mar 15 2020,Deadlift,8,265
+Mar 15 2020,Deadlift,8,265
+Mar 15 2020,Deadlift,8,265
+Mar 15 2020,Deadlift,8,265
+Mar 13 2020,Back Squat,8,45
+Mar 13 2020,Back Squat,8,135
+Mar 13 2020,Back Squat,3,220
+Mar 13 2020,Back Squat,4,245
+Mar 13 2020,Back Squat,4,265
+Mar 13 2020,Back Squat,4,265
+Mar 13 2020,Back Squat,4,265
+Mar 07 2020,Deadlift,8,45
+Mar 07 2020,Deadlift,8,135
+Mar 07 2020,Deadlift,4,225
+Mar 07 2020,Deadlift,3,255
+Mar 07 2020,Deadlift,4,285
+Mar 07 2020,Deadlift,4,295
+Mar 07 2020,Deadlift,4,305
+Mar 07 2020,Deadlift,4,305
+Mar 06 2020,Back Squat,8,45
+Mar 06 2020,Back Squat,8,135
+Mar 06 2020,Back Squat,4,185
+Mar 06 2020,Back Squat,3,225
+Mar 06 2020,Back Squat,4,245
+Mar 06 2020,Back Squat,4,265
+Mar 06 2020,Back Squat,4,265
+Mar 06 2020,Back Squat,3,265
+Mar 02 2020,Deadlift,10,45
+Mar 02 2020,Deadlift,10,135
+Mar 02 2020,Deadlift,5,225
+Mar 02 2020,Deadlift,3,255
+Mar 02 2020,Deadlift,6,285
+Mar 02 2020,Deadlift,6,285
+Mar 02 2020,Deadlift,6,285
+Mar 02 2020,Deadlift,6,285
+Mar 01 2020,Barbell Bench Press,10,45
+Mar 01 2020,Barbell Bench Press,8,135
+Mar 01 2020,Barbell Bench Press,3,185
+Mar 01 2020,Barbell Bench Press,5,195
+Mar 01 2020,Barbell Bench Press,5,205
+Mar 01 2020,Barbell Bench Press,5,195
+Mar 01 2020,Barbell Bench Press,5,195
+Mar 01 2020,Barbell Bench Press,5,200
+Feb 28 2020,Back Squat,8,45
+Feb 28 2020,Back Squat,8,135
+Feb 28 2020,Back Squat,3,185
+Feb 28 2020,Back Squat,4,225
+Feb 28 2020,Back Squat,4,245
+Feb 26 2020,Deadlift,10,45
+Feb 26 2020,Deadlift,10,135
+Feb 26 2020,Deadlift,5,225
+Feb 26 2020,Deadlift,3,255
+Feb 26 2020,Deadlift,6,285
+Feb 26 2020,Deadlift,6,285
+Feb 26 2020,Deadlift,6,285
+Feb 21 2020,Back Squat,10,45
+Feb 21 2020,Back Squat,8,115
+Feb 21 2020,Back Squat,12,185
+Feb 21 2020,Back Squat,12,195
+Feb 21 2020,Back Squat,12,195
+Feb 21 2020,Back Squat,12,195
+Feb 21 2020,Barbell Bench Press,10,45
+Feb 21 2020,Barbell Bench Press,8,115
+Feb 21 2020,Barbell Bench Press,4,185
+Feb 21 2020,Barbell Bench Press,4,195
+Feb 21 2020,Barbell Bench Press,4,195
+Feb 21 2020,Barbell Bench Press,4,195
+Feb 13 2020,Deadlift,8,45
+Feb 13 2020,Deadlift,8,135
+Feb 13 2020,Deadlift,8,135
+Feb 13 2020,Deadlift,3,225
+Feb 10 2020,Back Squat,10,45
+Feb 10 2020,Back Squat,8,135
+Feb 10 2020,Back Squat,3,185
+Feb 10 2020,Back Squat,6,205
+Feb 10 2020,Back Squat,6,225
+Feb 10 2020,Back Squat,6,225
+Jan 19 2020,Barbell Bench Press,10,45
+Jan 19 2020,Barbell Bench Press,8,95
+Jan 19 2020,Barbell Bench Press,8,155
+Jan 19 2020,Barbell Bench Press,8,155
+Jan 19 2020,Barbell Bench Press,7,155
+Jan 17 2020,Deadlift,10,45
+Jan 17 2020,Deadlift,8,145
+Jan 17 2020,Deadlift,3,220
+Jan 17 2020,Deadlift,8,245
+Jan 17 2020,Deadlift,8,245
+Jan 08 2020,Deadlift,10,45
+Jan 08 2020,Deadlift,8,145
+Jan 08 2020,Deadlift,3,220
+Jan 08 2020,Deadlift,8,245
+Jan 08 2020,Deadlift,8,245
+Jan 08 2020,Deadlift,8,245
+Jan 06 2020,Back Squat,10,45
+Jan 06 2020,Back Squat,8,125
+Jan 06 2020,Back Squat,3,185
+Jan 06 2020,Back Squat,5,205
+Jan 06 2020,Back Squat,5,225
+Jan 06 2020,Back Squat,5,225
+Jan 06 2020,Back Squat,5,225
+Jan 06 2020,Back Squat,5,225
+Nov 26 2019,Deadlift,10,45
+Nov 26 2019,Deadlift,10,135
+Nov 26 2019,Deadlift,3,205
+Nov 26 2019,Deadlift,10,245
+Nov 26 2019,Deadlift,10,245
+Nov 22 2019,Back Squat,10,45
+Nov 22 2019,Back Squat,8,135
+Nov 22 2019,Back Squat,3,185
+Nov 22 2019,Back Squat,2,225
+Nov 22 2019,Back Squat,5,245
+Nov 22 2019,Back Squat,5,245
+Nov 22 2019,Back Squat,5,245
+Nov 22 2019,Back Squat,5,245
+Nov 22 2019,Back Squat,5,245
+Nov 20 2019,Deadlift,10,45
+Nov 20 2019,Deadlift,8,135
+Nov 20 2019,Deadlift,3,275
+Nov 20 2019,Deadlift,5,295
+Nov 20 2019,Deadlift,5,295
+Nov 17 2019,Back Squat,4,45
+Nov 17 2019,Back Squat,4,135
+Nov 17 2019,Back Squat,3,185
+Nov 17 2019,Back Squat,2,225
+Nov 17 2019,Back Squat,2,275
+Nov 17 2019,Back Squat,2,285
+Nov 17 2019,Back Squat,2,295
+Nov 15 2019,Barbell Bench Press,10,45
+Nov 15 2019,Barbell Bench Press,8,130
+Nov 15 2019,Barbell Bench Press,5,190
+Nov 15 2019,Barbell Bench Press,5,195
+Nov 15 2019,Barbell Bench Press,5,200
+Nov 14 2019,Deadlift,5,275
+Nov 14 2019,Deadlift,5,295
+Nov 14 2019,Deadlift,5,295
+Nov 11 2019,Barbell Bench Press,10,45
+Nov 11 2019,Barbell Bench Press,8,130
+Nov 11 2019,Barbell Bench Press,5,185
+Nov 11 2019,Barbell Bench Press,5,185
+Nov 11 2019,Barbell Bench Press,5,185
+Nov 10 2019,Back Squat,6,45
+Nov 10 2019,Back Squat,6,135
+Nov 10 2019,Back Squat,6,185
+Nov 10 2019,Back Squat,3,225
+Nov 10 2019,Back Squat,3,275
+Nov 10 2019,Back Squat,3,275
+Nov 10 2019,Back Squat,3,275
+Nov 09 2019,Barbell Bench Press,10,45
+Nov 09 2019,Barbell Bench Press,8,110
+Nov 09 2019,Barbell Bench Press,5,180
+Nov 09 2019,Barbell Bench Press,5,180
+Nov 09 2019,Barbell Bench Press,5,180
+Nov 09 2019,Barbell Bench Press,5,180
+Nov 07 2019,Deadlift,10,45
+Nov 07 2019,Deadlift,8,190
+Nov 07 2019,Deadlift,3,285
+Nov 07 2019,Deadlift,5,300
+Nov 07 2019,Deadlift,4,305
+Nov 07 2019,Barbell Bench Press,10,45
+Nov 07 2019,Barbell Bench Press,8,95
+Nov 07 2019,Barbell Bench Press,10,155
+Nov 07 2019,Barbell Bench Press,10,155
+Nov 05 2019,Back Squat,6,45
+Nov 05 2019,Back Squat,6,160
+Nov 05 2019,Back Squat,3,240
+Nov 05 2019,Back Squat,3,265
+Nov 05 2019,Back Squat,3,275
+Nov 05 2019,Back Squat,3,285
+Nov 03 2019,Deadlift,10,45
+Nov 03 2019,Deadlift,8,165
+Nov 03 2019,Deadlift,3,250
+Nov 03 2019,Deadlift,5,275
+Nov 03 2019,Deadlift,5,295
+Nov 03 2019,Deadlift,5,295
+Nov 03 2019,Barbell Bench Press,10,45
+Nov 03 2019,Barbell Bench Press,8,110
+Nov 03 2019,Barbell Bench Press,5,185
+Nov 03 2019,Barbell Bench Press,5,185
+Nov 03 2019,Barbell Bench Press,5,185
+Nov 03 2019,Barbell Bench Press,5,185
+Nov 03 2019,Barbell Bench Press,5,185
+Oct 31 2019,Barbell Bench Press,10,45
+Oct 31 2019,Barbell Bench Press,8,105
+Oct 31 2019,Barbell Bench Press,10,155
+Oct 31 2019,Barbell Bench Press,10,165
+Oct 31 2019,Barbell Bench Press,10,175
+Oct 29 2019,Back Squat,4,45
+Oct 29 2019,Back Squat,4,145
+Oct 29 2019,Back Squat,2,220
+Oct 29 2019,Back Squat,2,245
+Oct 29 2019,Back Squat,2,265
+Oct 29 2019,Back Squat,2,285
+Oct 28 2019,Barbell Bench Press,4,140
+Oct 28 2019,Barbell Bench Press,2,205
+Oct 28 2019,Barbell Bench Press,2,215
+Oct 28 2019,Barbell Bench Press,2,215
+Oct 27 2019,Deadlift,4,45
+Oct 27 2019,Deadlift,6,155
+Oct 27 2019,Deadlift,4,245
+Oct 27 2019,Deadlift,2,265
+Oct 27 2019,Deadlift,2,285
+Oct 27 2019,Deadlift,2,295
+Oct 27 2019,Deadlift,2,305
+Oct 15 2019,Back Squat,3,225
+Oct 15 2019,Back Squat,3,225
+Oct 15 2019,Back Squat,3,225
+Oct 15 2019,Back Squat,3,225
+Oct 15 2019,Back Squat,3,225
+Oct 15 2019,Back Squat,3,225
+Oct 15 2019,Back Squat,3,225
+Oct 15 2019,Back Squat,3,225
